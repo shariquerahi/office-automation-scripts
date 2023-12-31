@@ -1,0 +1,45 @@
+[
+  {
+    "actor_id": "ACu1UjVpH9RuqhB4fm3DiMew230515==",
+    "card_id": "CCzaE6etK5T9e55WQy3suM3g230710==",
+    "created_at": "Monday, 10-Jul-23 21:11:35 IST",
+    "deleted_at": null,
+    "id": "CCR56QLHMNrTWCZyDMnSvEplw230710==",
+    "next_action": {
+      "screen": "CREDIT_CARD_DASHBOARD_SCREEN",
+      "creditCardDashboardScreenOptions": {}
+    },
+    "orchestration_id": "419cf10f-9955-4b4d-a32f-33ae409467e3",
+    "provenance": "PROVENANCE_APP",
+    "request_details": {
+      "addressType": "SHIPPING",
+      "billGenDate": "21",
+      "paymentDueDate": "9",
+      "cardOnboardingDetails": {
+        "addressType": "SHIPPING",
+        "cardLimit": {
+          "currencyCode": "INR",
+          "units": "115000"
+        },
+        "offerId": "CCOLx9T11CbRUqeRpufxw/nEw230619==",
+        "shippingAddress": {
+          "regionCode": "India",
+          "postalCode": "560037",
+          "administrativeArea": "KARNATAKA",
+          "locality": "BENGALURU URBAN",
+          "addressLines": [
+            "Sri Raghavendra Nilayayam 10th Cross",
+            "Kundalahalli Colony Brookfield"
+          ]
+        }
+      },
+      "selectedRewardId": "RWHeF2CDtTRoy1cP1KFM2syw230710==",
+      "selectedRewardOptionId": "bc7ceb5b-f498-4018-a1e9-daa594ceef86",
+      "selectedRewardType": "CC_REWARD_TYPE_GIFT_VOUCHERS"
+    },
+    "status": "CARD_REQUEST_STATUS_SUCCESS",
+    "updated_at": "Monday, 10-Jul-23 21:13:14 IST",
+    "vendor": "M2P",
+    "workflow": "CARD_REQUEST_WORKFLOW_TYPE_CARD_ONBOARDING"
+  }
+]
